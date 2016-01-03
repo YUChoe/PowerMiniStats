@@ -1,5 +1,4 @@
-## PowerMiniStats
-PowerMiniStats Addon
+# PowerMiniStats PowerMiniStats Addon for World of Warcraft
 
 ## Interface: 
 50400
