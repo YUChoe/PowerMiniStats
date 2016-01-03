@@ -1,6 +1,6 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: PowerMiniStats
-## Version: 0.90
+## Version: 0.91
 ## Notes: Displays power, critical, haste, multistrike and mastery values on screen. Inspired by Urzstat.
 ## Author: ls_pp
 
